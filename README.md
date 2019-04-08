@@ -17,9 +17,7 @@
 
 ★FREE !!!! FontAwesomePro★
 
-
 In folder
-
 
 - css/all.css
 - webfonts/fa-light-300.woff2
