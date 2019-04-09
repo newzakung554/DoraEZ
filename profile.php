@@ -76,7 +76,6 @@ function checkTime(i) {
             <li><a href="index">หน้าแรก</a></li>
             <li><a href="download">ดาวน์โหลด</a></li>
             <li><a href="https://www.facebook.com/profile.php?id=100033611693024" target="_blank">ติดต่อเรา</a></li>
-            <li><a href=""><div id="txt"></div></a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">เมนูเสริม <span class="caret"></span></a>
               <ul class="dropdown-menu">
